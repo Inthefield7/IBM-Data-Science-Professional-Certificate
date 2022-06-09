@@ -1,1 +1,1 @@
-# IBM-Data-Science-Profesional-Certificate
+# IBM-Data-Science-Professional-Certificate
